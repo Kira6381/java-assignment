@@ -40,5 +40,6 @@ public class DBUtil {
 
 ### PREVIEW:
 
-![image](https://github.com/user-attachments/assets/74c1d1da-75b6-4f2e-87b5-f0c1b5747d7e)
+
+![Screenshot from 2025-05-17 13-31-28](https://github.com/user-attachments/assets/66af8a27-a370-44ee-a46a-8a840075999a)
 
