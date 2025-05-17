@@ -1,0 +1,21 @@
+# Java build output
+*.class
+out/
+
+
+# Logs and temp files
+*.log
+*.tmp
+*.bak
+
+# IDE/editor settings
+.idea/
+*.iml
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Env/secrets
+*.env

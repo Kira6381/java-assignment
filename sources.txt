@@ -1,0 +1,5 @@
+src/main/java/com/yourname/taskmanager/model/Task.java
+src/main/java/com/yourname/taskmanager/ui/TaskManager.java
+src/main/java/com/yourname/taskmanager/util/Utils.java
+src/main/java/com/yourname/taskmanager/App.java
+src/main/java/com/yourname/taskmanager/dao/TaskDAO.java
